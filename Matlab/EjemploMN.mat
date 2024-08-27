@@ -1,0 +1,17 @@
+% Definimos la función f(x) y su derivada df(x)
+f = @(x) x^2 - 4;
+df = @(x) 2 * x;
+
+% Parámetros de entrada
+x0 = 3;  % Valor inicial
+tolerancia = 1e-4;  % Tolerancia para la precisión
+
+% Implementación del Método de Newton-Raphson
+x = x0;
+while abs(f(x)) > tolerancia
+    x = x - f(x) / df(x);
+end
+
+% Mostrar el resultado
+fprintf('La raíz de la función es aproximadamente: %.4f\n', x);
+
