@@ -338,7 +338,7 @@
         "f_cuatro= spy.diff(f_tres, x)\n",
         "\n",
         "print(\"Su cuarta derivada es:\\n\")\n",
-        "display(f_tres)"
+        "display(f_cuatro)"
       ],
       "metadata": {
         "colab": {
