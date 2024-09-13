@@ -253,7 +253,7 @@
         "f_tres= spy.diff(f_dos, x)\n",
         "\n",
         "print(\"Su tercera derivada es:\\n\")\n",
-        "display(f_dos)"
+        "display(f_tres)"
       ],
       "metadata": {
         "colab": {
