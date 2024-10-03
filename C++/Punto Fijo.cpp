@@ -1,6 +1,6 @@
 // Código creado por Joshua Mijangos López, 01/10/24
 // Este código está hecho para que las funciones del método y sus despejes se modifiquen desde aquí
-// Este código no acepta de datos de ingreso desde consola
+// Este código no acepta de datos de ingreso desde consola, recomiendo ejecutarlo desde Powershell
 // En algunas líneas utilizo "cout" y en otras "printf" debido a los caracteres especiales
 
 #include <iostream>
