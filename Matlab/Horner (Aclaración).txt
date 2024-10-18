@@ -1,0 +1,5 @@
+El código de Matlab correspondiente a la actividad en Classroom: Método de Horner NO pudo ser realizado de manera correcta.
+
+Hubo un error específico en mi código, ya que este no convergía en el # máximo de iteraciones, aunque se modificara este parámetro.
+
+Desconozco el porqué de este error.
